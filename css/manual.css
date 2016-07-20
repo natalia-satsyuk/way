@@ -1,0 +1,362 @@
+/*signika-regular*/
+
+/*KaushanScript-Regular*/
+
+
+
+/*for all at first*/
+
+.row {
+	max-width: 940px;
+}
+
+.row-relative {
+	position: relative;
+}
+
+.triangle-absolute,
+.triangle-border-absolute {
+	position: absolute;
+	top: 0;
+	left: calc(50% - 50px);
+}
+
+.logo {
+	padding: 30px 0 5px 0;
+}
+
+.logo-link {
+	font: 36px KaushanScript-Regular;
+	color: #fff;
+}
+
+.list-item {
+	padding: 40px 0 10px 0;
+}
+
+.list-link {
+	font: 18px signika-regular;
+	color: #fff;
+	padding: 5px;
+}
+
+.row-header {
+	font: 48px signika-regular;
+	text-transform: capitalize;
+	color: #fff;
+	padding: 135px 0 120px 0;
+}
+
+.row-about-block {
+	font: 19px Arial, sans-serif;
+	color: #fff;
+	padding: 30px 0 120px 0;
+}
+
+.row-for-blocks {
+	padding-bottom: 190px;
+}
+
+.about-name {
+	padding-top: 20px;
+	font: 19px Arial, sans-serif;
+	color: #fff;
+}
+
+.about-name-descript {
+	padding: 10px;
+	font: 13px Arial, sans-serif;
+	color: #fff;
+}
+
+ .img-clients {
+ 	max-width: 220px;
+ 	width: 100%;
+ }
+
+/*---HOME---*/
+
+.wrapper-home {
+	/*max-width: 1600px;*/
+	width: 100%;
+	background: url("../images/road.png") center no-repeat;
+	background-size: cover;
+	
+}
+
+.home-active {
+	background-color: #3F9FC9;
+}
+
+.row-home-switch {
+	padding: 90px 0;
+}
+
+.home-switch {
+	padding: 5px;
+}
+
+.row-home-socials {
+	padding: 120px 0;
+}
+
+.home-socials {
+	margin: 15px;
+}
+
+.main-menu {
+	display: none;
+}
+
+/*---end of HOME---*/
+
+/*---ABOUT---*/
+
+.wrapper-about {
+	background-color: #F17C72;
+}
+
+.about-active {
+	background-color: #E6655E;
+}
+
+.about-services {
+	background-color: #2AAE96;
+	padding: 0 3px;
+	color: #fff;
+}
+
+.about-clients {
+	background-color: #7F4C76;
+	padding: 0 3px;
+	color: #fff;
+}
+
+.about-link {
+	color: #fd2614;
+}
+
+.about-span {
+	color: #ecedef; 
+}
+
+.about-name {
+	padding-top: 20px;
+	font: 19px Arial, sans-serif;
+	color: #fff;
+}
+
+.about-name-descript {
+	/*padding-bottom: 15px;*/
+	font: 13px Arial, sans-serif;
+	color: #fff;
+	line-height: 19px;
+}
+
+.about-profi-socials {
+	padding-top: 25px;
+	border-top: 3px solid #3FA690;
+}
+
+.about-profi-socials-link {
+	padding: 0 3px;
+}
+
+.about-block-margin {
+	background-color: #E6655E;
+	border: 3px solid #F4948B;
+	padding: 30px 0;
+}
+
+.img-about {
+ 	max-width: 149px;
+ 	width: 85%;
+ }
+
+/*---end of ABOUT---*/
+
+/*---SERVICES---*/
+
+.wrapper-services {
+	background-color: #32AC97;
+}
+
+.triangle-services {
+	width: 0;
+    height: 0;
+    border-top: 40px solid #F17C72;
+    border-left: 55px solid transparent;
+    border-right: 55px solid transparent;	
+}
+
+.services-active {
+	background-color: #46DCC7;
+}
+
+.services-block-margin {
+	background-color: #46DCC7;
+	border: 3px solid #A4DAD1;
+	padding: 30px 0 10px 0;
+}
+
+.img-services {
+ 	max-width: 149px;
+ 	width: 85%;
+ }
+
+/*---end of SERVICES---*/
+
+/*---CLIENTS---*/
+
+.wrapper-clients {
+	background-color: #7F4C76;
+}
+
+.triangle-clients {
+	width: 0;
+    height: 0;
+    border-top: 40px solid #32AC97;
+    border-left: 55px solid transparent;
+    border-right: 55px solid transparent;	
+}
+
+.clients-active {
+	background-color: #B288AB;
+}
+
+.clients-block-margin {
+	padding-top: 120px;
+}
+
+.about-name-clients {
+	padding: 10px 0;
+	font: 12px Arial, sans-serif;
+	color: #fff;
+}
+
+.clients-go-to {
+	font: 13px Arial, sans-serif;
+	color: #b288ab;
+}
+
+
+/*---end of CLIENTS---*/
+
+/*---CONTACTS---*/
+
+.wrapper-contacts {
+	background-color: #3F9FC9;
+}
+
+.triangle-contacts {
+	width: 0;
+    height: 0;
+    border-top: 40px solid #7F4C76;
+    border-left: 55px solid transparent;
+    border-right: 55px solid transparent;	
+}
+
+.contacts-active {
+	background-color: #37637F;
+}
+
+.row-contacts {
+	padding-bottom: 180px;
+}
+
+.row-about-contacts {
+	font: 19px Arial, sans-serif;
+	color: #fff;
+	padding-bottom: 45px;
+}
+
+.get-in-touch-adress {
+	font: 14px Arial, sans-serif;
+	color: #fff;
+	line-height: 21px;
+	padding-bottom: 50px;
+}
+
+.get-in-touch-phone {
+	font: 14px Arial, sans-serif;
+	color: #fff;
+	line-height: 21px;
+}
+
+.get-in-touch-phone-mail {
+	color: #373b47; 
+}
+
+.get-in-touch-input {
+	border: none;
+	background-color: #C2E8F4;
+	padding: 5px 0 5px 10px;
+	width: 48%;
+}
+
+.get-in-touch-input:first-child {
+	margin-right: 2.5%;
+}
+
+
+
+::-webkit-input-placeholder {
+	font: 13px Arial, sans-serif;
+	color: #39596e;
+}
+::-moz-placeholder {
+	font: 13px Arial, sans-serif;
+	color: #39596e;
+}/* Firefox 19+ */
+:-moz-placeholder {
+	font: 13px Arial, sans-serif;
+	color: #39596e;
+}/* Firefox 18- */
+:-ms-input-placeholder {
+	font: 13px Arial, sans-serif;
+	color: #39596e;
+}
+
+.get-in-touch-textarea {
+ 	border: none;
+	background-color: #C2E8F4;
+	padding-left: 10px;
+	margin: 20px 0;
+	border-radius: 0;
+ }
+
+ .get-in-touch-input-submit {
+ 	font: 19px Arial, sans-serif; 
+ 	background-color: #F17C72;
+ 	color: #fff;
+ 	border: 1px solid #b76058;
+ 	padding: 6px 40px;
+ }
+
+ .get-in-touch-input-submit:hover {
+ 	box-shadow: 0 0 4px #fff;
+ }
+
+
+/*---end of CONTACTS---*/
+
+/*---FOOTER---*/
+
+.wrapper-footer {
+	background-color: #334960;
+	font: 12px Arial, sans-serif; 
+	line-height: 24px;
+	color: #e0e8ec;
+	padding: 30px;
+	overflow-x:hidden;
+}
+
+.footer-logo {
+	font: 18px KaushanScript-Regular;
+}
+
+/*---end of FOOTER---*/
+
+
+
+

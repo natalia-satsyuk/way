@@ -1,0 +1,385 @@
+@media screen and (max-width: 992px) and (min-width: 769px) {
+
+		
+	.main-menu {
+		display: block;
+		padding-top: 53px;
+		text-align: right;
+	}
+
+	.main-list {
+		display: none; /*  !!!!!!!!!!!!!!!!!*/
+		position: absolute;
+	    top: 90px;
+	    right: 0;
+	    z-index: 2;
+	    text-align: center;
+	    background-color: rgba(178,134,166,0.9);
+	}
+
+	.list-item {
+		padding: 3px 0;
+	}
+
+	.main-list .list-item {
+		display: block;
+	}
+
+	.list-link {
+		font-size: 15px;
+		text-align: center;
+	}
+
+	.fa {
+		font-size: 30px;
+		color: #fff;
+		cursor: pointer;
+	}
+
+	.row-header {
+		padding: 40px 0 10px;
+		font-size: 35px;
+	}
+
+
+    .slick-dots li button {
+    	width: 15px;
+    	height: 15px;
+    }
+
+	.row-home-socials {
+		padding: 60px 0;
+	}
+
+	.home-socials {
+	    margin: 10px;
+	}
+
+	.home-socials-image {
+		width: 5%;
+	}
+
+	.row-about-block {
+	    padding: 30px 0 55px 0;
+	}
+
+	.about-profi-socials-link {
+    	padding: 0;
+    }
+
+    .row-for-blocks {
+	    padding-bottom: 60px;
+	}	
+
+	.clients-block-margin {
+	    padding-top: 50px;
+	}
+
+	.row-contacts {
+	    padding-bottom: 55px;
+	}
+
+}	
+
+@media screen and (max-width: 768px) and (min-width: 481px) {
+
+		
+	.main-menu {
+		display: block;
+		padding-top: 38px;
+		text-align: right;
+	}
+
+	.main-list {
+		display: none; /*  !!!!!!!!!!!!!!!!!*/
+		position: absolute;
+	    top: 90px;
+	    right: 0;
+	    z-index: 2;
+	    text-align: center;
+	    background-color: rgba(178,134,166,0.9);
+	}
+
+	.list-item {
+		padding: 3px 0;
+	}
+
+	.main-list .list-item {
+		display: block;
+	}
+
+	.list-link {
+		font-size: 15px;
+		text-align: center;
+	}
+
+	.fa {
+		font-size: 30px;
+		color: #fff;
+		cursor: pointer;
+	}
+
+	.row-header {
+		padding: 20px 0 10px;
+		font-size: 26px;
+	}
+
+	.logo-link {
+	    font-size: 26px;
+	}
+
+    .slick-dots li button {
+    	width: 15px;
+    	height: 15px;
+    }
+
+	.row-home-socials {
+		padding: 40px 0;
+	}
+
+	.home-socials {
+	    margin: 5px;
+	}
+
+	.home-socials-image {
+		width: 5%;
+	}
+
+	.row-about-block {
+	    padding: 30px 0 25px 0;
+	    font-size: 14px;
+	    line-height: 18px;
+	}
+
+	.about-block-margin {
+	    padding: 15px 0;
+	    margin-top: 25px;
+	}
+
+	.img-about,
+	.img-services {
+	    max-width: 100px;
+	}
+
+	.about-name {
+   		padding-top: 10px;
+   		margin-bottom: 0;
+   		font-size: 17px;
+   }
+
+   .about-name-descript {
+	    padding: 0;
+	}
+
+	.about-profi-socials {
+	    padding-top: 15px;
+	}
+
+	.about-profi-socials-link {
+    	padding: 5px;
+    }
+
+    .services-block-margin {
+    	margin-top: 25px;
+    	padding-top: 15px;
+    }
+
+    .row-for-blocks {
+	    padding-bottom: 60px;
+	}	
+
+	.clients-block-margin {
+	   	padding-bottom: 40px;
+	    padding-top: 20px;
+	    border-bottom: 1px solid #B286A6;
+	}
+
+	/*.clients-block-margin:last-child {
+		border-bottom: none;
+		padding-bottom: 5px;
+	} */
+
+	.row-contacts {
+	    padding-bottom: 55px;
+	    text-align: center;
+	}
+
+	.row-about-contacts {
+	    padding-bottom: 10px;
+	}
+
+	.get-in-touch-adress {
+	    padding-bottom: 25px;
+	}
+	
+	.get-in-touch-map {
+		padding: 20px 0;
+	}
+}		
+
+@media screen and (max-width: 480px) {
+
+		
+	.main-menu {
+		display: block;
+		padding-top: 38px;
+		text-align: right;
+	}
+
+	.main-list {
+		display: none; /*  !!!!!!!!!!!!!!!!!*/
+		position: absolute;
+	    top: 90px;
+	    right: 0;
+	    z-index: 2;
+	    text-align: center;
+	    background-color: rgba(178,134,166,0.9);
+	}
+
+	.list-item {
+		padding: 3px 0;
+	}
+
+	.main-list .list-item {
+		display: block;
+	}
+
+	.list-link {
+		font-size: 15px;
+		text-align: center;
+	}
+
+	.fa {
+		font-size: 30px;
+		color: #fff;
+		cursor: pointer;
+	}
+
+	.row-header {
+		padding: 20px 0 10px;
+		font-size: 20px;
+	}
+
+	.logo-link {
+	    font-size: 26px;
+	}
+
+    .slick-dots li button {
+    	width: 10px;
+    	height: 10px;
+    }
+
+	.row-home-socials {
+		padding: 20px 0 40px;
+	}
+
+	.home-socials {
+	    margin: 5px;
+	}
+
+	.home-socials-image {
+		width: 9%;
+	}
+
+	.row-about-block {
+	    padding: 10px 0 0 0;
+	    font-size: 12px;
+	    line-height: 18px;
+	}
+
+	.about-block-margin {
+	    padding: 15px 0;
+	    margin-top: 25px;
+	}
+
+	.img-about,
+	.img-services {
+	    max-width: 80px;
+	}
+
+	.about-name {
+   		padding-top: 10px;
+   		margin-bottom: 0;
+   		font-size: 14px;
+   }
+
+   .about-name-descript {
+	    padding: 0;
+	    font-size: 12px;
+	}
+
+	.about-profi-socials {
+	    padding-top: 15px;
+	}
+
+	.about-profi-socials-link {
+    	padding: 5px;
+    }
+
+    .services-block-margin {
+    	margin-top: 25px;
+    	padding-top: 15px;
+    }
+
+    .row-for-blocks {
+	    padding-bottom: 60px;
+	}
+
+	.img-clients {
+	    max-width: 200px;
+	}
+
+	.clients-block-margin {
+	   	padding-bottom: 25px;
+	    padding-top: 20px;
+	    border-bottom: 1px solid #B286A6;
+	}
+
+	/*.clients-block-margin:last-child {
+		border-bottom: none;
+		padding-bottom: 5px;
+	} */
+
+	.row-contacts {
+	    padding-bottom: 55px;
+	    text-align: center;
+	}
+
+	.row-about-contacts {
+	    padding: 20px 0 0;
+	}
+
+	.get-in-touch-adress {
+	    padding-bottom: 15px;
+	    font-size: 13px;
+	}
+
+	.get-in-touch-phone {
+	    font-size: 13px;
+	}
+	
+	.get-in-touch-map {
+		padding: 20px 0;
+	}
+
+	.get-in-touch-input {
+	    display: block;
+	    width: 100%;
+	}
+
+	.get-in-touch-input:first-child {
+	    margin-bottom: 20px;
+	}
+
+	.get-in-touch-input-submit {
+	    font-size: 14px;
+	}
+
+	.wrapper-footer {
+		font-size: 11px; 
+		line-height: 20px;
+		padding: 20px;
+	}
+}		
+
+

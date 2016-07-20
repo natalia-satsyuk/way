@@ -1,0 +1,27 @@
+
+
+@font-face {
+	font-family: 'signika-regular';
+	src: url('../fonts/signika.eot');
+	src: local('☺'), url('../fonts/signika.woff') format('woff'),
+	url('../fonts/signika.ttf') format('truetype'), 
+	url('../fonts/signika.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'KaushanScript-Regular';
+	src: url('../fonts/KaushanScript-Regular.eot');
+	src: local('☺'), url('../fonts/KaushanScript-Regular.woff') format('woff'), 
+	url('../fonts/KaushanScript-Regular.ttf') format('truetype'), 
+	url('../fonts/KaushanScript-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+
+
