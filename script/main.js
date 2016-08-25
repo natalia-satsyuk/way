@@ -12,9 +12,8 @@ $('.slider-wrap').slick({
 });
 
 
-
-$(".menu-small-icon").click(function(){
-	$(".main-list").slideToggle();
+$(".main-menu").click(function(){
+	$(this).parent().children(".main-list").slideToggle();
 });
 
 $(window).resize(function(){
